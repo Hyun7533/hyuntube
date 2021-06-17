@@ -22,7 +22,6 @@ function App() {
       requestOptions)
       .then(response => response.json())
       .then(result => setVideos(result.items))
-      .then(console.log('search fetch api'))
       .catch(error => console.log('error', error));
   };
 
