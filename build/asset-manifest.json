@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hyun7533/hyuntube/static/css/main.c2ae1b2f.chunk.css",
+    "main.js": "/Hyun7533/hyuntube/static/js/main.e2ca79ed.chunk.js",
+    "main.js.map": "/Hyun7533/hyuntube/static/js/main.e2ca79ed.chunk.js.map",
+    "runtime-main.js": "/Hyun7533/hyuntube/static/js/runtime-main.3f929946.js",
+    "runtime-main.js.map": "/Hyun7533/hyuntube/static/js/runtime-main.3f929946.js.map",
+    "static/js/2.77e9a4c6.chunk.js": "/Hyun7533/hyuntube/static/js/2.77e9a4c6.chunk.js",
+    "static/js/2.77e9a4c6.chunk.js.map": "/Hyun7533/hyuntube/static/js/2.77e9a4c6.chunk.js.map",
+    "static/js/3.ceabc29a.chunk.js": "/Hyun7533/hyuntube/static/js/3.ceabc29a.chunk.js",
+    "static/js/3.ceabc29a.chunk.js.map": "/Hyun7533/hyuntube/static/js/3.ceabc29a.chunk.js.map",
+    "index.html": "/Hyun7533/hyuntube/index.html",
+    "static/css/main.c2ae1b2f.chunk.css.map": "/Hyun7533/hyuntube/static/css/main.c2ae1b2f.chunk.css.map",
+    "static/js/2.77e9a4c6.chunk.js.LICENSE.txt": "/Hyun7533/hyuntube/static/js/2.77e9a4c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f929946.js",
+    "static/js/2.77e9a4c6.chunk.js",
+    "static/css/main.c2ae1b2f.chunk.css",
+    "static/js/main.e2ca79ed.chunk.js"
+  ]
+}
