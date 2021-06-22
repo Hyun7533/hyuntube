@@ -32,7 +32,7 @@ function App() {
       redirect: 'follow'
     };
 
-    fetch("https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=youtube&key=AIzaSyALd5gN0lZ5gFbk7dys3373SqkmhNcF_dE", requestOptions)
+    fetch("https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=50&q=onemillion&key=AIzaSyALd5gN0lZ5gFbk7dys3373SqkmhNcF_dE", requestOptions)
       .then(response => response.json())
       .then(result => setVideos(result.items))
       .then(console.log('basic fetch api'))
