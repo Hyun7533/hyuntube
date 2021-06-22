@@ -22,7 +22,7 @@ const Search_header = memo(
 
         return (
             <header className={styles.header}>
-                <img className={styles.img} src="/img/youtube_logo.png" alt="logo" />
+                {/* <img className={styles.img} src="./youtube_logo2.png" alt="logo2" /> */}
                 <h1 className={styles.title}>HyunTube</h1>
                 <input
                     className={styles.input}
